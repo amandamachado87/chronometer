@@ -1,0 +1,43 @@
+.time{
+    text-align: center;
+    left: 20px;
+    top: 10px;
+    position: relative;
+    width: 120px;
+
+}
+.start{
+    vertical-align: middle;
+    margin: 0 auto;
+    left: 20px;
+    font-family: arial;
+    position: relative;
+    float: left;
+}
+.pause{
+    vertical-align: middle;
+    left: 20px;
+    font-family: arial;
+    position: relative;
+	float: none;
+}
+span{
+    font-style: italic;
+    font-size: 10px;
+}
+.alertField{
+    margin: 20px;
+    text-align: center;
+}
+.alertField p{
+    margin-top: 1rem;
+}
+.content{
+    display:none;
+    margin: 20px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    padding: .375rem .75rem;
+}
+
+	
